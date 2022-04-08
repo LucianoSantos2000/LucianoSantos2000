@@ -1,4 +1,14 @@
-## Olá bem vindo(a) Prazer luciano Santos, estudante de ciências da computação.
+# Olá bem vindo(a) Prazer luciano Santos..
+ <li> :bulb: Estudante de ciências da computação 🎒
+  
+ <li> Quais Linguagens estou me dedicando para desenvolvedor full stack?
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Luciano-Ruby" height="50" width="70"  src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=whitek">
+  <img align="center" alt="Luciano-PHP" height="50" width="70"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="Luciano-javascript" height="50" width="70"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=forthebadge&logo=javascript&logoColor=black">
+  <img align="center" alt="Luciano-C#" height="50" width="70"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</div>
+ 
 <div align="center">
   <a href="https://github.com/LucianoSantos2000">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoSantos2000&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
