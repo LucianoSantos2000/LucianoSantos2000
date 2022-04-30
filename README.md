@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style= for-the-badge" alt="" /></a> </p>
 
+<img src="https://i.ibb.co/KcntSyn/1651282996100.png" width="250" height="250">
+
 - 🔭 Atualmente Trabalho como atendimento, **objetivo vaga fullstack**
 
 - 👯 Eu Procuro colaborar em **desenvolvimento web Fullstack**
