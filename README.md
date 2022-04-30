@@ -31,3 +31,6 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianosantos2000&show_icons=true&locale=en" alt="lucianosantos2000" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianosantos2000&" alt="lucianosantos2000" /></p>
+
+
+![Snake animation](https://github.com/LucianoSantos2000/LucianoSantos2000/blob/output/github-contribution-grid-snake.svg)
