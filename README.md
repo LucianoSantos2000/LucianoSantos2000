@@ -7,7 +7,7 @@
 
 <img src="https://i.ibb.co/KcntSyn/1651282996100.png" width="250" height="250">
 
-- 🔭 Atualmente Trabalho como atendimento, **objetivo vaga fullstack**
+- 🔭 Atualmente Trabalho com atendimento, **objetivo vaga fullstack**
 
 - 👯 Eu Procuro colaborar em **desenvolvimento web Fullstack**
 
