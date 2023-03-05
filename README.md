@@ -7,7 +7,7 @@
 
 <img src="https://i.ibb.co/KcntSyn/1651282996100.png" width="250" height="250">
 
-- 🔭 Atualmente Trabalho com CRC - Centro de Relacionamento com clientes, **objetivo vaga fullstack**
+- 🔭 Atualmente Trabalho com CRC - Centro de Relacionamento com clientes, **objetivo vaga Front-end**
 
 - 👯 Eu Procuro colaborar em **desenvolvimento web Front-end**
 
