@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Bem Vindo(a) Prazer Luciano Santos...</h1>
-<h3 align="center">Um desenvolvedor Front-end que ama aplicar os conhecimentos e resolver os problemas.</h3 >
+<h3 align="center">Atualmente migrando para área de redes & Telecomunicações.</h3 >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianosantos2000&label=Profile%20views&color=0e75b6&style=flat" alt="lucianosantos2000" /> </p>
 
@@ -7,11 +7,11 @@
 
 <img src="https://i.ibb.co/KcntSyn/1651282996100.png" width="250" height="250">
 
-- 🔭 Atualmente Trabalho com CRC - Centro de Relacionamento com clientes, **objetivo vaga Front-end**
+- 🔭 Atualmente Trabalho com CRC - Centro de Relacionamento com clientes, **objetivo vaga Analista de redes**
 
-- 👯 Eu Procuro colaborar em **desenvolvimento web Front-end**
+- 👯 Eu Procuro colaborar em **Network operations center*
 
-❔Me Pergunte❔ sobre: *Tecnologia, Linguagem de programação, Algoritmo & logica, sua pergunta é meu aprendizado👋.**
+❔Me Pergunte❔ sobre: *Tecnologia, Linguagem de programação,Ferramentas de redes, Algoritmo & logica, sua pergunta é meu aprendizado👋.**
 
 - 📫 Meu email para contato **LucianoMoreirajr2000@outlook.com**
 
