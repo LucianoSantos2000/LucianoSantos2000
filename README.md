@@ -9,7 +9,7 @@
 
 - 🔭 Atualmente Trabalho com CRC - Centro de Relacionamento com clientes, **objetivo vaga Analista de redes**
 
-- 👯 Eu Procuro colaborar em **Network operations center*
+- 👯 Eu Procuro colaborar em  **Network operations center**
 
 ❔Me Pergunte❔ sobre: *Tecnologia, Linguagem de programação,Ferramentas de redes, Algoritmo & logica, sua pergunta é meu aprendizado👋.**
 
