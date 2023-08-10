@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Bem Vindo(a) Prazer Luciano Santos...</h1>
-<h3 align="center">Atualmente migrando para área de redes & Telecomunicações.</h3 >
+<h3 align="center">Profissional da área de redes & Telecomunicações.</h3 >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianosantos2000&label=Profile%20views&color=0e75b6&style=flat" alt="lucianosantos2000" /> </p>
 
