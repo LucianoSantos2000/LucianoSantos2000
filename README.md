@@ -7,10 +7,10 @@
 
 <img src="https://i.ibb.co/KcntSyn/1651282996100.png" width="250" height="250">
 
-- 🔭 Atualmente Trabalho com Network operations center
-  , **objetivo vaga Analista de segurança da informação**
+- 🔭 Atualmente procurando oportunidade.
+  , **objetivo vaga Analista de redes**
 
-- 👯 Eu Procuro colaborar em  **cibersegurança**
+- 👯 Eu Procuro colaborar em  **redes de computadores**
 
 ❔Me Pergunte❔ sobre: *Tecnologia, Linguagem de programação,Ferramentas de redes, Algoritmo & logica, sua pergunta é meu aprendizado👋.**
 
